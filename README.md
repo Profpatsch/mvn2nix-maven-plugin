@@ -12,6 +12,8 @@ Appears to require maven 3.2.5 to build locally.
 Usage
 ------
 
+Inside your maven project folder:
+
 `mvn org.nixos.mvn2nix:mvn2nix-maven-plugin:mvn2nix`
 
 System properties
